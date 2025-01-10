@@ -1,0 +1,24 @@
+\x0c
+\x1b\x46EFFECTENBEURS A'DAM    \x1b\x47211011a    \x1b\x42 0c
+\x1b\x56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+\x1b\x4d\x1b\x43Amsterdamse Effectenbeurs \x1b\x4c binnenland
+\n\r
+\x1b\x4326-06-'84,16:30:26       DOORL.AANDELEN
+\x1b\x56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+\x1b\x43             vorige   eerste   recente 
+\x1b\x43fondsnaam    koers    koers    koers  
+\n\r
+\x1b\x46aegon        114.00   114.00   114.00  
+\n\r
+\x1b\x46ahold        176.00   175.50   175.00  
+\x1b\x46akzo         85.20    85.00    84.40   
+\x1b\x46abn          316.50   314.50   315.00  
+\x1b\x46amev c       150.00   150.00   150.20  
+\x1b\x46amro         59.50    59.30    59.70   
+\n\r
+\x1b\x46bos kalis c  30.80    30.60    30.40   
+\x1b\x46dordtse      138.30   137.50   136.50  
+\x1b\x46dordtse pr   136.90   136.50   135.00  
+\x1b\x56,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+\x1b\x43toets\x1b\x469\x1b\x43bladeren,\x1b\x468\x1b\x43terugbladeren,     
+      \x1b\x460\x1b\x43voor index.

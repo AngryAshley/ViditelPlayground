@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hcm/Documents/ViditelPlayground/build",
+  "command": "/usr/bin/clang++  -I/home/hcm/Documents/ViditelPlayground/../boostSRC/boost_1_85_0 -g -std=gnu++20 -o CMakeFiles/ViditelPlayground.dir/main.cpp.o -c /home/hcm/Documents/ViditelPlayground/main.cpp",
+  "file": "/home/hcm/Documents/ViditelPlayground/main.cpp",
+  "output": "CMakeFiles/ViditelPlayground.dir/main.cpp.o"
+}
+]

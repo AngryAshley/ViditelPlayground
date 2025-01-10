@@ -1,0 +1,16 @@
+\e\x0c\e\x527k7k#7k7owsp2,\e\x53\eZ | h4h4 | |\n\r
+\e\x517k#7k?#!j#5"#'#o5j>kpc \e\x53\eZj5   j5j5\n\r
+\e\x575j 5j ~4j 5j5*/ 5jup" 0\e\x53\eZ|~5j5  |0
+\e\x560%z5j0+!j u"/u(,n5jw %\eZ\e\x53j5   j5j5"5
+\e\x52}|}~|~~|}|}||}~wp`0\eZ\e\x53 j5 o~o |>\n\r
+\n\r\n\r
+\e\x4d Please select a service: *..._\n\r\n\r\n\r
+     000 - CreatureTel\n\r
+     100 - VidiTel Time Machine\n\r
+     200 - The Gallery\n\r
+     300 - Guest Book\n\r
+     400 - PTT TeleGids\n\r
+     500 - Exhibition\n\r
+\n\r\n\r
+\e\x46 Toets *..._\n\r
+\e\x4d
